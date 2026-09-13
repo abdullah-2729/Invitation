@@ -498,8 +498,8 @@ if (scratchCanvas && scratchContainer && scratchPhotoArea) {
    ========================================================= */
 
 const RSVP_ENDPOINT =
-  "https://script.google.com/macros/s/AKfycbyX8-qWMSPFYSCRvAAjn-cV37BcIukz17d-HGYkE9BFH3-jIo7Dy0U44AauP4gZ6vPI/exec";
-
+  "https://script.google.com/macros/s/AKfycbw42Os8MgB7EYRd7P5BmucehbwHOUQt1wKXGhoUR0MoZKKvNj-H3zzXfD7C2_MlLyfv/exec";
+   
 const rsvpForm = document.getElementById("rsvpForm");
 const rsvpSuccess = document.getElementById("rsvpSuccess");
 
